@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "sohneschmal-fett";
+  src: url("../assets/fonts/sohneschmal-fett-webfont.woff2") format("woff2"), url("../assets/fonts/sohneschmal-fett-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "ia_writer_quattro_sregular";
+  src: url("../assets/fonts/iawriterquattros-regular-webfont.woff2") format("woff2"), url("../assets/fonts/iawriterquattros-regular-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/*# sourceMappingURL=index.css.map */
