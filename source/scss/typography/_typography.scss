@@ -1,0 +1,25 @@
+h1 {
+    border: 0 solid $white-lilac;
+    box-sizing: border-box;
+    color: $white;
+    font-family: $sohneschmal;
+    font-size: 72px;
+    font-weight: 800;
+    text-shadow: 0px 2px 0px $concrete, 0px 8px 8px rgba($black, 0.15);
+    text-size-adjust: 100%;
+}
+
+h3 {
+    color: $white;
+    font-family: $ia-writer;
+}
+
+h3 {
+    font-family: $ia-writer;
+    font-weight: bold;
+}
+
+li {
+    color: $slate;
+    font-size: 22px;
+}
