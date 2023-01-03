@@ -30,6 +30,7 @@ footer, header, hgroup, menu, nav, section {
 }
 
 body {
+  background-color: #242120;
   line-height: 1;
 }
 
@@ -67,59 +68,97 @@ table {
 h1 {
   border: 0 solid #E5E7EB;
   box-sizing: border-box;
-  color: #FFFFFF;
+  color: #F8F6F5;
   font-family: "sohneschmal-fett", -apple-system, sans-serif;
-  font-size: 72px;
+  font-size: 65px;
   font-weight: 800;
-  text-shadow: 0px 2px 0px #D0D0D0, 0px 8px 8px rgba(0, 0, 0, 0.15);
+  text-shadow: 0px 2px 0px #797673, 0px 8px 8px rgba(36, 33, 32, 0.15);
   text-size-adjust: 100%;
 }
 
-h3 {
-  color: #FFFFFF;
+@media only screen and (max-width: 510px) {
+  h1 {
+    font-size: 50px;
+  }
+}
+h2 {
+  color: #797673;
   font-family: "iA Writer Duospace", -apple-system, sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+  margin-top: 15px;
 }
 
 h3 {
+  color: #F8F6F5;
   font-family: "iA Writer Duospace", -apple-system, sans-serif;
-  font-weight: bold;
+  font-size: 16px;
 }
 
-li {
-  color: #C4C4C4;
-  font-size: 22px;
+h4 {
+  color: #797673;
+  font-family: "iA Writer Duospace", -apple-system, sans-serif;
+  font-size: 16px;
+}
+
+h5 {
+  color: #797673;
+  font-family: "Helvetica", sans-serif;
+  font-size: 14px;
+  line-height: 2;
+}
+
+a {
+  color: #F8F6F5;
+  text-decoration-color: #797673;
+  text-decoration-thickness: 0.5px;
+  text-underline-offset: 0.05em;
 }
 
 .container {
   margin-left: auto;
   margin-right: auto;
-  max-width: 860px;
+  max-width: 608px;
   width: 100%;
 }
 
 header {
-  background-color: #111111;
   box-sizing: border-box;
-  display: flex;
-  padding: 73px 48px 72px;
-  width: 100%;
+  padding: 25px;
 }
 
-.setlist {
-  /*align-items: center;
-  background-color: $charcoal;
-  border: 1px solid $tuxedo;
-  box-shadow: 4px 4px 0px $black;
-  border-radius: 22px;
-  display: flex;
-  margin: auto;
-  max-width: 1024px;
-  width: 100%;*/
-  background-color: #1B1B1B;
+.season {
+  padding: 25px;
+}
+.season > h3 {
+  margin-bottom: 25px;
+}
+
+.episodes > * + * {
+  margin-top: 25px;
 }
 
 .episode {
-  list-style: none;
+  display: flex;
+}
+.episode h4 {
+  max-width: 100%;
+  width: 190px;
+}
+.episode > div {
+  flex: 1;
+}
+
+@media only screen and (max-width: 510px) {
+  .episode {
+    flex-direction: column;
+  }
+  .episode h4 {
+    width: 100%;
+  }
+  .episode > div {
+    margin-top: 15px;
+  }
 }
 
 /*# sourceMappingURL=index.css.map */

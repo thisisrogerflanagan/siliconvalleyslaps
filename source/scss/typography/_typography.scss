@@ -3,23 +3,48 @@ h1 {
     box-sizing: border-box;
     color: $white;
     font-family: $sohneschmal;
-    font-size: 72px;
+    font-size: 65px;
     font-weight: 800;
     text-shadow: 0px 2px 0px $concrete, 0px 8px 8px rgba($black, 0.15);
     text-size-adjust: 100%;
 }
 
+@media only screen and (max-width: 510px) {
+    h1 {
+        font-size: 50px;
+    }
+}
+
+h2 {
+    color: $concrete;
+    font-family: $ia-writer;
+    font-size: 14px;
+    line-height: 1.5;
+    margin-top: 15px;
+}
+
 h3 {
     color: $white;
     font-family: $ia-writer;
+    font-size: 16px;
 }
 
-h3 {
+h4 {
+    color: $concrete;
     font-family: $ia-writer;
-    font-weight: bold;
+    font-size: 16px;
 }
 
-li {
-    color: $slate;
-    font-size: 22px;
+h5 {
+    color: $concrete;
+    font-family: "Helvetica", sans-serif;
+    font-size: 14px;
+    line-height: 2;
+}
+
+a {
+    color: $white;
+    text-decoration-color: $concrete;
+    text-decoration-thickness: 0.5px;
+    text-underline-offset: 0.05em;
 }
