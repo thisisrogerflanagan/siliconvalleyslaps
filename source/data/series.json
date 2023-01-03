@@ -1,0 +1,496 @@
+{
+    "soundtrack": {
+        "title": "Silicon Valley Soundtrack",
+		"Series": {
+			"SeasonOne": {
+                "EpisodeOne": {
+                    "EpisodeNumber": 1,
+					"EpisodeTitle": "Minimal Viable Product",
+					"Track": {
+                        "Artist": "Green Day",
+						"Song": "Minority",
+                        "Album": "Warning"
+                    }
+                },
+                "EpisodeTwo": {
+                    "EpisodeNumber": 2,
+					"EpisodeTitle": "The Cap Table",
+					"Track": {
+                        "Artist": "The Notorious B.I.G. & Ratatat",
+						"Song": "Party and Bullshit",
+                        "Album": ""
+                    }
+                },
+                "EpisodeThree": {
+                    "EpisodeNumber": 3,
+					"EpisodeTitle": "Articles of Incorporation",
+					"Track": {
+                        "Artist": "Blake Mills",
+						"Song": "Hey Lover",
+                        "Album": "Blake Mills"
+                    }
+                },
+                "EpisodeFour": {
+                    "EpisodeNumber": 4,
+					"EpisodeTitle": "Fiduciary Duties",
+					"Track": {
+                        "Artist": "Father Sister Berzerker",
+						"Song": "Tobacco",
+                        "Album": "Ultima II Massage"
+                    }
+                },
+                "EpisodeFive": {
+                    "EpisodeNumber": 5,
+					"EpisodeTitle": "Signaling Risk",
+					"Track": {
+                        "Artist": "Pueblo Cafe, Big Critic",
+						"Song": "Nuevos Tiempos",
+                        "Album": "Busca Oro"
+                    }
+                },
+                "EpisodeSix": {
+                    "EpisodeNumber": 6,
+					"EpisodeTitle": "Third Party Insourcing",
+					"Track": {
+                        "Artist": "TOBACCO",
+						"Song": "Stretch Your Face",
+                        "Album": ""
+                    }
+                },
+                "EpisodeSeven": {
+                    "EpisodeNumber": 7,
+					"EpisodeTitle": "Proof of Concept",
+					"Track": {
+                        "Artist": "Danny Brown",
+						"Song": "Smokin & Drinkin",
+                        "Album": "Old"
+                    }
+                },
+                "EpisodeEight": {
+                    "EpisodeNumber": 8,
+					"EpisodeTitle": "Optimal Tip-to-Tip Efficiency",
+					"Track": {
+                        "Artist": "Green Day",
+						"Song": "Minority",
+                        "Album": "Warning"
+                    }
+                }
+            },
+            "SeasonTwo": {
+                "EpisodeOne": {
+                    "EpisodeNumber": 1,
+					"EpisodeTitle": "Sand Hill Shuffle",
+					"Track": {
+                        "Artist": "Run the Jewels, El-P, Killer Mike",
+						"Song": "Blockbuster Night, Pt. 1",
+                        "Album": "Run the Jewels 2"
+                    }
+                },
+                "EpisodeTwo": {
+                    "EpisodeNumber": 2,
+					"EpisodeTitle": "Runaway Devaluation",
+					"Track": {
+                        "Artist": "",
+						"Song": "",
+                        "Album": ""
+                    }
+                },
+                "EpisodeThree": {
+                    "EpisodeNumber": 3,
+					"EpisodeTitle": "Bad Money",
+					"Track": {
+                        "Artist": "Shirt",
+						"Song": "Phantom (Redux)",
+                        "Album": "Single"
+                    }
+                },
+                "EpisodeFour": {
+                    "EpisodeNumber": 4,
+					"EpisodeTitle": "The Lady",
+					"Track": {
+                        "Artist": "Dizzee Rascal",
+						"Song": "I Don't Need A Reason",
+                        "Album": "The Fifth (Deluxe)"
+                    }
+                },
+                "EpisodeFive": {
+                    "EpisodeNumber": 5,
+					"EpisodeTitle": "Server Space",
+					"Track": {
+                        "Artist": "Alabama Shakes",
+						"Song": "Don't Wanna Fight",
+                        "Album": "Sound & Color"
+                    }
+                },
+                "EpisodeSix": {
+                    "EpisodeNumber": 6,
+					"EpisodeTitle": "Homicide",
+					"Track": {
+                        "Artist": "Big MAKK",
+						"Song": "BANDZ",
+                        "Album": "What Is A Jeffree?"
+                    }
+                },
+                "EpisodeSeven": {
+                    "EpisodeNumber": 7,
+					"EpisodeTitle": "Adult Content",
+					"Track": {
+                        "Artist": "ZZ Top",
+						"Song": "Rhytmeen",
+                        "Album": "Rhytmeen"
+                    }
+                },
+                "EpisodeEight": {
+                    "EpisodeNumber": 8,
+					"EpisodeTitle": "White Hat/Black Hat",
+					"Track": {
+                        "Artist": "Bassnectar, Jantsen, Fashawn, Zion I",
+						"Song": "Lost in the Crowd",
+                        "Album": "Noise vs Beauty"
+                    }
+                },
+                "EpisodeNine": {
+                    "EpisodeNumber": 9,
+					"EpisodeTitle": "Binding Arbitration",
+					"Track": {
+                        "Artist": "Portugal. The Man, Jake One",
+						"Song": "Evil Friends - Jake One Remix",
+                        "Album": "Evil Friends Remix EP"
+                    }
+                },
+                "EpisodeTen": {
+                    "EpisodeNumber": 10,
+					"EpisodeTitle": "Two Days of the Condor",
+					"Track": {
+                        "Artist": "Pusha T, Diddy",
+						"Song": "Changing of the Guards",
+                        "Album": "Fear of God II: Let Us Pray"
+                    }
+                }
+            },
+            "SeasonThree": {
+                "EpisodeOne": {
+                    "EpisodeNumber": 1,
+					"EpisodeTitle": "Founder Friendly",
+					"Track": {
+                        "Artist": "DJ Shadow, Run The Jewels",
+						"Song": "Nobody Speak",
+                        "Album": "The Mountain Will Fall"
+                    }
+                },
+                "EpisodeTwo": {
+                    "EpisodeNumber": 2,
+					"EpisodeTitle": "Two in the Box",
+					"Track": {
+                        "Artist": "The Pioneers",
+						"Song": "Time Hard",
+                        "Album": "Give and Take"
+                    }
+                },
+                "EpisodeThree": {
+                    "EpisodeNumber": 3,
+					"EpisodeTitle": "Meinertzhagen's Haversack",
+					"Track": {
+                        "Artist": "Bell Biv DeVoe",
+						"Song": "Poison",
+                        "Album": "Poison"
+                    }
+                },
+                "EpisodeFour": {
+                    "EpisodeNumber": 4,
+					"EpisodeTitle": "Maleant Data Systems Solutions",
+					"Track": {
+                        "Artist": "Pusha T, Future",
+						"Song": "Pain",
+                        "Album": "My Name Is My Name"
+                    }
+                },
+                "EpisodeFive": {
+                    "EpisodeNumber": 5,
+					"EpisodeTitle": "The Empty Chair",
+					"Track": {
+                        "Artist": "Mala Rodriguez",
+						"Song": "Jugadoras,Jugadores",
+                        "Album": "Alevosia"
+                    }
+                },
+                "EpisodeSix": {
+                    "EpisodeNumber": 6,
+					"EpisodeTitle": "Bachmanity Insanity",
+					"Track": {
+                        "Artist": "Israel Kamakawiwo'ole",
+						"Song": "White Sandy Beach",
+                        "Album": "Wonderful World"
+                    }
+                },
+                "EpisodeSeven": {
+                    "EpisodeNumber": 7,
+					"EpisodeTitle": "To Build a Better Beta",
+					"Track": {
+                        "Artist": "San Holo",
+						"Song": "Raw",
+                        "Album": "Single"
+                    }
+                },
+                "EpisodeEight": {
+                    "EpisodeNumber": 8,
+					"EpisodeTitle": "Bachman's Earning's Over-Ride",
+					"Track": {
+                        "Artist": "Crispian St. Peters",
+						"Song": "The Pied Piper",
+                        "Album": "Follow Me..."
+                    }
+                },
+                "EpisodeNine": {
+                    "EpisodeNumber": 9,
+					"EpisodeTitle": "Daily Active Users",
+					"Track": {
+                        "Artist": "",
+						"Song": "",
+                        "Album": ""
+                    }
+                },
+                "EpisodeTen": {
+                    "EpisodeNumber": 10,
+					"EpisodeTitle": "The Uptick",
+					"Track": {
+                        "Artist": "Cypress Hill, Tom Morello",
+						"Song": "Rise Up",
+                        "Album": "Rise Up"
+                    }
+                }
+            },
+            "SeasonFour": {
+                "EpisodeOne": {
+                    "EpisodeNumber": 1,
+					"EpisodeTitle": "Success Failure",
+					"Track": {
+                        "Artist": "DJ Shadow, Nas",
+						"Song": "Systematic",
+                        "Album": "The Mountain Has Fallen"
+                    }
+                },
+                "EpisodeTwo": {
+                    "EpisodeNumber": 2,
+					"EpisodeTitle": "Terms of Service",
+					"Track": {
+                        "Artist": "Pregnant Boy, Og Swaggerdick, Grip Plyaz",
+						"Song": "Fun House",
+                        "Album": "Single"
+                    }
+                },
+                "EpisodeThree": {
+                    "EpisodeNumber": 3,
+					"EpisodeTitle": "Intellectual Property",
+					"Track": {
+                        "Artist": "Dr. Octagon",
+						"Song": "Blue Flowers",
+                        "Album": "Dr. Octagonecologyst"
+                    }
+                },
+                "EpisodeFour": {
+                    "EpisodeNumber": 4,
+					"EpisodeTitle": "Teambuilding Exercise",
+					"Track": {
+                        "Artist": "Old Man Saxon, Mount Cyanide",
+						"Song": "On My Own",
+                        "Album": "Single"
+                    }
+                },
+                "EpisodeFive": {
+                    "EpisodeNumber": 5,
+					"EpisodeTitle": "The Blood Boy",
+					"Track": {
+                        "Artist": "Beastie Boys & Nas",
+						"Song": "Too Many Rappers",
+                        "Album": "Single"
+                    }
+                },
+                "EpisodeSix": {
+                    "EpisodeNumber": 6,
+					"EpisodeTitle": "Customer Service",
+					"Track": {
+                        "Artist": "Meter Mobb, Too $hort",
+						"Song": "You Came to Party",
+                        "Album": "Bloom Box"
+                    }
+                },
+                "EpisodeSeven": {
+                    "EpisodeNumber": 7,
+					"EpisodeTitle": "The Patent Troll",
+					"Track": {
+                        "Artist": "Mariachi La Estrella, Elio Armas",
+						"Song": "Walking on Sunshine",
+                        "Album": ""
+                    }
+                },
+                "EpisodeEight": {
+                    "EpisodeNumber": 8,
+					"EpisodeTitle": "The Keenan Vortex",
+					"Track": {
+                        "Artist": "Death from Above 1979",
+						"Song": "Freeze Me",
+                        "Album": ""
+                    }
+                },
+                "EpisodeNine": {
+                    "EpisodeNumber": 9,
+					"EpisodeTitle": "Hooli-Con",
+					"Track": {
+                        "Artist": "Hudson Mohawks, Remy Banks",
+						"Song": "Passports",
+                        "Album": ""
+                    }
+                },
+                "EpisodeTen": {
+                    "EpisodeNumber": 10,
+					"EpisodeTitle": "Server Error",
+					"Track": {
+                        "Artist": "Wu-Tang Clan",
+						"Song": "Don't Stop",
+                        "Album": ""
+                    }
+                }
+            },
+            "SeasonFive": {
+                "EpisodeOne": {
+                    "EpisodeNumber": 1,
+					"EpisodeTitle": "Grow Fast or Die Slow",
+					"Track": {
+                        "Artist": "The Fabulous Thunderbirds",
+						"Song": "The Monkey",
+                        "Album": ""
+                    }
+                },
+                "EpisodeTwo": {
+                    "EpisodeNumber": 2,
+					"EpisodeTitle": "Reorientation",
+					"Track": {
+                        "Artist": "C2C",
+						"Song": "Down the Road",
+                        "Album": ""
+                    }
+                },
+                "EpisodeThree": {
+                    "EpisodeNumber": 3,
+					"EpisodeTitle": "Chief Operating Officer",
+					"Track": {
+                        "Artist": "Clearside",
+						"Song": "Cop Drama",
+                        "Album": ""
+                    }
+                },
+                "EpisodeFour": {
+                    "EpisodeNumber": 4,
+					"EpisodeTitle": "Tech Evangelist",
+					"Track": {
+                        "Artist": "After Journey & Boom",
+						"Song": "The Luxury Life",
+                        "Album": ""
+                    }
+                },
+                "EpisodeFive": {
+                    "EpisodeNumber": 5,
+					"EpisodeTitle": "Facial Recognition",
+					"Track": {
+                        "Artist": "Girl Talk, Erick the Architect",
+						"Song": "Trouble in Paradise",
+                        "Album": ""
+                    }
+                },
+                "EpisodeSix": {
+                    "EpisodeNumber": 6,
+					"EpisodeTitle": "Artificial Emotional Intelligence",
+					"Track": {
+                        "Artist": "Higher Brothers, Famous Dex",
+						"Song": "Made in China",
+                        "Album": ""
+                    }
+                },
+                "EpisodeSeven": {
+                    "EpisodeNumber": 7,
+					"EpisodeTitle": "Initial Coin Offering",
+					"Track": {
+                        "Artist": "Cut Chemist, Edan, Mr.lif",
+						"Song": "Metalstorm",
+                        "Album": ""
+                    }
+                },
+                "EpisodeEight": {
+                    "EpisodeNumber": 8,
+					"EpisodeTitle": "Fifty-One Percent",
+					"Track": {
+                        "Artist": "Uncle Walt's Band",
+						"Song": "Getaway",
+                        "Album": ""
+                    }
+                }
+            },
+            "SeasonSix": {
+                "EpisodeOne": {
+                    "EpisodeNumber": 1,
+					"EpisodeTitle": "Artificial Lack of Intelligence",
+					"Track": {
+                        "Artist": "Freddie Hart",
+						"Song": "Easy Lovin'",
+                        "Album": ""
+                    }
+                },
+                "EpisodeTwo": {
+                    "EpisodeNumber": 2,
+					"EpisodeTitle": "Blood Money",
+					"Track": {
+                        "Artist": "Buddy Guy",
+						"Song": "She's Got The Devil In Her",
+                        "Album": ""
+                    }
+                },
+                "EpisodeThree": {
+                    "EpisodeNumber": 3,
+					"EpisodeTitle": "Hooli Smokes",
+					"Track": {
+                        "Artist": "Chali 2na",
+						"Song": "Comin' Thru",
+                        "Album": ""
+                    }
+                },
+                "EpisodeFour": {
+                    "EpisodeNumber": 4,
+					"EpisodeTitle": "Maximizing Alphaness",
+					"Track": {
+                        "Artist": "Geto Boys",
+						"Song": "First Light of the Day",
+                        "Album": ""
+                    }
+                },
+                "EpisodeFive": {
+                    "EpisodeNumber": 5,
+					"EpisodeTitle": "Tethics",
+					"Track": {
+                        "Artist": "Bibio",
+						"Song": "Zen Drums",
+                        "Album": ""
+                    }
+                },
+                "EpisodeSix": {
+                    "EpisodeNumber": 6,
+					"EpisodeTitle": "RussFest",
+					"Track": {
+                        "Artist": "John Popper & The Duskray Troubadours",
+						"Song": "Champipple",
+                        "Album": ""
+                    }
+                },
+                "EpisodeSeven": {
+                    "EpisodeNumber": 7,
+					"EpisodeTitle": "Exit Event",
+					"Track": {
+                        "Artist": "",
+						"Song": "",
+                        "Album": ""
+                    }
+                }
+            }
+        }
+    }
+}

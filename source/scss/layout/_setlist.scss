@@ -15,12 +15,12 @@
 .episode {
     display: flex;
 
-    h4 {
+    > div {
         max-width: 100%;
-        width: 190px;
+        width: 240px;
     }
 
-    > div {
+    > div + div {
         flex: 1;
     }
 }

@@ -23,23 +23,33 @@ h2 {
     margin-top: 15px;
 }
 
-h3 {
+h3,
+summary {
     color: $white;
     font-family: $ia-writer;
     font-size: 16px;
+    line-height: 1.5;
 }
 
 h4 {
     color: $concrete;
     font-family: $ia-writer;
     font-size: 16px;
+    line-height: 1.5;
 }
 
 h5 {
     color: $concrete;
     font-family: "Helvetica", sans-serif;
     font-size: 14px;
-    line-height: 2;
+    line-height: 1.5;
+}
+
+h6 {
+    color: $slate;
+    font-family: "Helvetica", sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
 }
 
 a {
@@ -47,4 +57,18 @@ a {
     text-decoration-color: $concrete;
     text-decoration-thickness: 0.5px;
     text-underline-offset: 0.05em;
+}
+
+.unavailable {
+    color: darken($white, 60%);
+    pointer-events: none;
+}
+
+summary {
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+
+details {
+    margin-bottom: 20px;
 }
